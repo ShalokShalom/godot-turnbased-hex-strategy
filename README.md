@@ -2,7 +2,7 @@
 ###### Title may change later
 
 ## Made with Godot
-This is my first attempt at a compelete Godot game and also the fulfillment of one of my dreams - a hex-based turn-based strategy game/engine that is versatile enough to represent any setting/period with ease.
+This is my first attempt at a complete Godot game and also the fulfillment of one of my dreams - a hex-based turn-based strategy game/engine that is versatile enough to represent any setting/period with ease.
 
 ### Ancestors
 I drew a big heap of inspiration from classics like 'Nectaris', 'Battle Isle', 'Historyline' and last but not least the lovely 'Panzer General' series.
